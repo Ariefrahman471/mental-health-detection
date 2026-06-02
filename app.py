@@ -1,13 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════════════╗
-║  DETEKSI DINI RISIKO KESEHATAN MENTAL MELALUI MEDIA SOSIAL          ║
-║  Pelatihan bagi Siswa SMA di Kota Medan                             ║
-║                                                                      ║
-║  Versi Web (Streamlit) — Konversi dari BiLSTM Desktop v3            ║
-║  Model: Bidirectional LSTM (BiLSTM)                                 ║
-╚══════════════════════════════════════════════════════════════════════╝
-"""
-
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
