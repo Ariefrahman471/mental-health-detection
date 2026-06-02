@@ -99,9 +99,6 @@ Dataset harus berformat CSV dengan minimal 2 kolom:
 Aplikasi ini adalah **alat bantu edukasi**, bukan pengganti diagnosis medis.
 Jika ada kekhawatiran serius tentang kesehatan mental, segera hubungi:
 - Guru BK sekolah
-- Hotline kesehatan jiwa: **119 ext 8**
-- Yayasan Pulih: **(021) 788-42580**
-
 ---
 
-© 2026 · Pengabdian Masyarakat · Universitas · SMA Kota Medan
+© 2026 · Pengabdian Masyarakat · Universitas Bunda Thamrin · Medan
